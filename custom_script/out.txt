@@ -1,0 +1,9 @@
+import os
+class tree():
+     def plant(self,a,b):
+             self.a="1"
+	     print self.a 	
+             self.b="B"
+c=tree()
+c.plant(self,a,b)
+
